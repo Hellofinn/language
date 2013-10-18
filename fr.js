@@ -5,19 +5,19 @@ moot.language = {
 
 
    /* New stuff */
-   givebody: 'Body cannot be empty.',
-   show_old: 'Show oldest replies',
-   show_more: 'Show more replies',
-   show_new: 'Show newest replies',
-   start: 'Start a new topic...',
-   error: 'Oops, an error. Please copy the post to clipboard, reload and try again. Sorry – we will fix this!',
-   body: 'Body text',
+   givebody: 'Le message ne peut pas être vide',
+   show_old: 'Montrer les anciennes réponses',
+   show_more: 'Montrer plus de réponses',
+   show_new: 'Montrer les nouvelles réponses',
+   start: 'Démarrer un nouveau sujet',
+   error: 'Oops, il y a une erreur. Veuillez copier le message, et raffraîchir la page, on va régler ça très vite!,
+   body: 'Texte du message',
    admin: 'Admin',
-   someone: 'Someone',
-   writing: 'is writing...',
-   basic: 'Basic (free)',
-   subs: 'Subscriptions',
-   manage: 'Manage',
+   someone: 'Quelqu\'un',
+   writing: 'est en train d\'écrire',
+   basic: 'Basique (gratuit)',
+   subs: 'Souscriptions',
+   manage: 'Gérer',
    single: 'single word',
    /* End new stuff */
 
@@ -44,8 +44,8 @@ moot.language = {
    admins: 'Administrateurs',
    adminstip: 'Un nom d\'utilisateur par ligne',
    settings: 'Paramètres',
-   title: 'Title',
-   link: 'link',
+   title: 'Titre',
+   link: 'lien',
    avatar: 'Changer l\'avatar',
    seo_update: 'Les pages pour le SEO seront mises à jour dans moins d\'une heure',
 
